@@ -8,3 +8,8 @@
 > 8/9/2020 < Version: 2.6.2
 - Added updates log;
 - Updated clantag changer gui;
+
+> 8/13/2020 < Version: 2.6.3
+- Fixed "Updates" causing crashes;
+- Added HWID obfuscation;
+- Made checkbox always checked even if not on a game;
